@@ -1,0 +1,21 @@
+{
+    "name": "xayrullayev/yii2-newextention",
+    "description": "Testing generate new extension",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Xayrullayev Behzod",
+            "email": "xayrullayev001@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "xayrullayev\\newextension\\": ""
+        }
+    }
+}
