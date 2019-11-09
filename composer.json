@@ -10,10 +10,7 @@
             "email": "xayrullayev001@gmail.com"
         }
     ],
-    "require": {
-        "yiisoft/yii2": "*"
-    },
-    "autoload": {
+        "autoload": {
         "psr-4": {
             "xayrullayev\\newextension\\": ""
         }
